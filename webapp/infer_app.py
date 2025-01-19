@@ -27,6 +27,9 @@ from flux.util import (
     load_flow_model,
     load_t5,
 )
+import logging
+
+logging.basicConfig(level=logging.DEBUG)
 
 NSFW_THRESHOLD = 0.85
 HISTORY_DIR = "history"
