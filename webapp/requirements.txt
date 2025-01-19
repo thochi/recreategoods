@@ -5,10 +5,10 @@ torchvision
 numpy
 einops
 fire
-transformers[torch,sentencepiece]>=4.31.0
+transformers[torch,sentencepiece]==4.29.2
 safetensors
 invisible-watermark
 sentencepiece
 accelerate
 streamlit-scroll-to-top
--e ./pix2pix
+-e pix2pix
