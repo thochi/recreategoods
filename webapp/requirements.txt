@@ -11,4 +11,3 @@ invisible-watermark
 sentencepiece
 accelerate
 streamlit-scroll-to-top
--e . 
