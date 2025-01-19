@@ -11,4 +11,4 @@ invisible-watermark
 sentencepiece
 accelerate
 streamlit-scroll-to-top
--e pix2pix
+-e /mount/src/recreategoods/pix2pix/flux
